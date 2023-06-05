@@ -1,4 +1,4 @@
 # commitizen-changelogithub-githubactions
 
-Change
+Change test
 
