@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "commit": "cz",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +18,15 @@
   },
   "homepage": "https://github.com/cbontems/commitizen-changelogithub-githubactions#readme",
   "devDependencies": {
-    "changelogithub": "0.12.11"
+    "changelogithub": "0.12.11",
+    "cz-conventional-changelog": "3.3.0"
+  },
+  "dependencies": {
+    "commitizen": "4.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
