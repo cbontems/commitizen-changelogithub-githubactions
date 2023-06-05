@@ -1,6 +1,6 @@
 {
   "name": "commitizen-changelogithub",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/cbontems/commitizen-changelogithub-githubactions.git"
   },
-  "author": "Cédric Bontems <cedric@thewebforge.dev> (https://thewebforge.dev/)",
+  "author": "C\u00e9dric Bontems <cedric@thewebforge.dev> (https://thewebforge.dev/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/cbontems/commitizen-changelogithub-githubactions/issues"
