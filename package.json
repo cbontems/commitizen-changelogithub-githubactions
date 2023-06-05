@@ -1,0 +1,22 @@
+{
+  "name": "commitizen-changelogithub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbontems/commitizen-changelogithub-githubactions.git"
+  },
+  "author": "Cédric Bontems <cedric@thewebforge.dev> (https://thewebforge.dev/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cbontems/commitizen-changelogithub-githubactions/issues"
+  },
+  "homepage": "https://github.com/cbontems/commitizen-changelogithub-githubactions#readme",
+  "devDependencies": {
+    "changelogithub": "0.12.11"
+  }
+}
